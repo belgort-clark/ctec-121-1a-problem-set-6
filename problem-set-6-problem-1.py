@@ -10,14 +10,14 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line or to the right of the line that
    contains the error and tell me what you fixed.
 3) Make sure the code runs.
-4) Re-read Steps 1 -3 above :-).
+4) Re-read Steps 1 - 3 above :-).
 """
 
 
 def main():
     # get the day month and year as numbers
     day = integer(input("Enter the day number: "))
-    month = int(input("Enter the month number: "))
+    month = int(input("Enter the month number: '))
     year == int(input("Enter the year: "))
 
     # concatenate the numbers together by converting each variable to a string

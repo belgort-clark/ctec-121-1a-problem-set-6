@@ -15,7 +15,7 @@ IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF THE PRO
 
 Write a program that gets a string containing the person's first, middle and last names using input(), and then displays their first, middle and last initials. For example, the user enters "Bruce Lawrence Elgort", the program should display B.L.E. It must display exactly like this with the .'s after each letter with no spaces.
 
-Use string slicing (Module 5 for this).
+Use string slicing (Module 7 for this).
 
 DO NOT ask for separate inputs.
 

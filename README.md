@@ -1,6 +1,6 @@
 # Module 7 - Problem Set No. 6
 
-This repository contains all of files you need to complete Problem Set 5.
+This repository contains all of files you need to complete Problem Set 6.
 
 This repository contains the following files:
 
@@ -20,7 +20,7 @@ This repository contains the following files:
 
 This assignment contains 10 problems. Each problem is worth 10 points.
 
-If you have any questions, please ask them in the #questions channel on Slack. I'm happy to assist.
+If you have any questions, please ask them in the #questions channel in Slack. I'm happy to assist.
 
 1. **Clone** this repository to your computer.
 2. Open the **repository** in **Visual Studio Code**.
