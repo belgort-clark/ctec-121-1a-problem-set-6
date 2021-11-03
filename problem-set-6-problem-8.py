@@ -43,7 +43,7 @@ def main():
     # Your code goes here. Please do not remove this comment.
 
     # 7) Using a for loop, write Python code to print each character of the list1 on a new line.
-    # Also, use the accumulator pattern to rebuild the list elements using string conctenation.
+    # Also, use the accumulator pattern to rebuild the list elements using string concatenation.
     # Your code goes here. Please do not remove this comment.
 
     # 8) Write Python code that demonstrates you can append to list1 created above.
