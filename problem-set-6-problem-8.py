@@ -42,8 +42,8 @@ def main():
     # Each of the variables should have a list of alphabetic characters assigned to it.
     # Your code goes here. Please do not remove this comment.
 
-    # 7) Using a for loop, write Python code to print each character of the list on a new line.
-    # Also, use the accumulator patter to rebuild the strings using string conctenation.
+    # 7) Using a for loop, write Python code to print each character of the list1 on a new line.
+    # Also, use the accumulator pattern to rebuild the list elements using string conctenation.
     # Your code goes here. Please do not remove this comment.
 
     # 8) Write Python code that demonstrates you can append to list1 created above.
