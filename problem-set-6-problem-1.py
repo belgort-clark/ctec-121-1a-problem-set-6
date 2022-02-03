@@ -1,4 +1,6 @@
 # CTEC 121
+# YOUR NAME
+# Winter 2022
 # Author: Bruce Elgort
 # problem-set-6-problem-1.py
 

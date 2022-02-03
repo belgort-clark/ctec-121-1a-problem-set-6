@@ -25,7 +25,7 @@ If you have any questions, please ask them in the #questions channel in Slack. I
 1. **Clone** this repository to your computer.
 2. Open the **repository** in **Visual Studio Code**.
 3. **Read** the instructions in each of the files.
-4. You will be **fixing my Python code** that has **minor** syntax errors in it.
+4. You will be **fixing my Python code** that has **minor** syntax errors in it.
 5. Once you have completed each program, be sure to test it by running it.
 6. Make sure that you are getting the expected results.
 7. **Stage, commit and push** your work back to **GitHub**.
