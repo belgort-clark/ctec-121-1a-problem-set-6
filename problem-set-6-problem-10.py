@@ -27,7 +27,7 @@ HINTS
 ========================
 - Split the sentence into a list
 - Iterate through each word using a loop
-- Get the last character of each word and assign it to a variable
+- Get the first character of each word and assign it to a variable
 - Use string slicing to get the last character of each word
 - Remove the first character from the word
 - Append it to the end of the current word
